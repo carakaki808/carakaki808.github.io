@@ -11,7 +11,6 @@ summary: A linked list that records data on different PCs designed in ICS 211.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/LinkedListproj.png">
-<img class="ui image" src="{{ site.baseurl }}/images/linkedList.png">
 
 This is a console application that I created back in ICS 211. Though simple and unrefined, this particular project was special to me because it was the culmination of everything I learned about Java at the time.
 
