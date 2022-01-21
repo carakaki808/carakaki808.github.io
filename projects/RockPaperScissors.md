@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: download.png
+image: images/download.png
 title: images/RockPaperScissors
 permalink: 
 date: 2021-03-10
