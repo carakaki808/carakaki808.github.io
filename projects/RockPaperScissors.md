@@ -2,29 +2,19 @@
 layout: project
 type: project
 image: images/download.png
-title: images/RockPaperScissors
-permalink: 
+title: RockPaperScissors
+permalink: projects/RockPaperScissors
 date: 2021-03-10
 labels:
   - Java
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: A simple Rock Paper Scissors game created in ICS 211 utilizing a GUI.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/download.png">
-</div>
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
+RockPaperScissors is a simple Java program that I solo developed in ICS 211. This project helped further my skills in Java and in particular GUI.
+
+This is one of my first attempts at creating an application in Java. 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
