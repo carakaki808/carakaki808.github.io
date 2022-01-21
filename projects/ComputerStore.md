@@ -21,5 +21,5 @@ When run, the console will display a menu asking the user to input options. Itâ€
 Iâ€™m still new to programming, but this was my proudest accomplishment thus far.
 
 
-Source: <a href="https://github.com/https://github.com/carakaki808/LinkedLists"><i class="large github icon "></i>carakaki808/LinkedLists</a>
+Source: <a href="https://github.com/carakaki808/LinkedLists"><i class="large github icon "></i>carakaki808/LinkedLists</a>
 
