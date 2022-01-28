@@ -78,6 +78,28 @@
   ],
   "work": [
     {
+      "company": "Food Land",
+      "position": "Cashier",
+      "website": "",
+      "startDate": "2010",
+      "endDate": "2012",
+      "summary": "Wrang up groceries and stocked items.",
+      "highlights": [
+        "I had to have good knowledge of UPCs and and understanding of sales laws. I worked in a team setting."
+      ]
+    },
+    {
+      "company": "Shorebird",
+      "position": "Busser",
+      "website": "",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "Focused on sanitizing.",
+      "highlights": [
+        "I collected dishes from tables. I also cleaned and sanitized the work environment in an efficient manner to increase the flow of customers."
+      ]
+    },
+    {
       "company": "Sheraton Hotels",
       "position": "BellHop",
       "website": "",
