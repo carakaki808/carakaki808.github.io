@@ -7,6 +7,9 @@ permalink: projects/MathOp
 date: 2021-02-28
 labels:
   - Java
+  - JGrasp
+  - Recursion
+  - Math
 summary: An application designed to utilize simple math functions in a recursive method all packaged within a simple GUI.
 ---
 
