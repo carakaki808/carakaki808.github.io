@@ -18,17 +18,24 @@ Time spent understanding a problem can vary pending on how an individual approac
 In a quick search in StackOverflow, I was able to find examples of what I believe are the makings of a good question, and a not-so-good question.
 
 Example A,
+
 *I have an array of JavaScript objects*
+
 ---
+
 var objs = [
   { first_nom: 'Lazslo', last_nom: 'Jamf'     },
   { first_nom: 'Pig',    last_nom: 'Bodine'   },
   { first_nom: 'Pirate', last_nom: 'Prentice' }
 ];
+
 ---
+
 *How can I sort them by the value of last_nom in JavaScript?*
 *I know about sort(a,b), but that only seems to work on strings and numbers. Do I need to add a toString() method to my objects?*
 
 This question popped up when I searched with tags including javascript, arrays, sorting, and comparison. The title is clear and concise, Sort array of objects by string property value. They immediately begin their post with a sample of their code to help support their follow-up question. The last part of their question asserted a symptom of their problem to help with analysis. I consider this to be a good question. Although the last sentence was a guess and could have been neglected, the rest of the inquiry was robust and allowed for further discussion on the issue.
 
 Example B,
+
+
