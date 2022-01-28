@@ -10,8 +10,11 @@ labels:
   - Problem Solving
 ---
 
+## What Does it Mean to Work Smarter?
 
 The phrase “work smarter” has been passed around an enumerable amount of times. It’s an ideology that infers that people should focus less on the tasks at hand and instead more on completing the tasks with diminishing effort. A simple yet powerful mantra to use when tedious problems present themselves. When these problems happen, the first step is always to understand what the problem is. How can we do this effectively?
+
+## Ok, So What Should You do?
 
 Time spent understanding a problem can vary pending on how an individual approaches the situation. In my humble opinion, the most effective way for someone to understand a problem is to seek guidance from another person who has experienced it. Why read an entire book on modern medicine when you only want to know how to soothe a sore throat? Asking good questions has become harder to master. Here’s what differentiates a good question from a bad one.
 
