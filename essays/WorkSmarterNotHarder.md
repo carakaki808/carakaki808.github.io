@@ -42,4 +42,26 @@ This question popped up when I searched with tags including javascript, arrays, 
 
 Example B,
 
+*I don't know if I didn't notice this before... or has it always been like this?*
 
+---
+
+<img class="ui tiny left circular floated image" src="../images/githubBadQuestion1.png">  
+
+---
+
+*Brave:*
+
+---
+
+<img class="ui tiny left circular floated image" src="../images/githubBadQuestion2.png">  
+
+---
+
+*In Safari it works logically, you want a string as a key then you should use a {} dictionary, but i guess it worked before the []arrays...?*
+
+This question wasn’t even answered. My guess? It’s too vague. The title is **_Since when Safari not allow to use a string as an array key?_** Ignoring the obvious syntactical errors, the question itself is easy to understand, but it lacks extra details that would allow the reader to respond with a worthy answer. What is “this” he’s referring to? Has it always been like what specifically? The closing section of his question has him guessing what the answer may be without describing the symptoms of his problem. Imagine telling a doctor you think you are sick but instead of telling him your symptoms, you start guessing “maybe it’s pneumonia? Or perhaps I have gout?” Another important detail he missed is uploading two images relating to his problem without any details on what his images propose.
+
+## What's the Take Away?
+
+Both examples showcase what I believe separates a smart question from a not-so-smart question. Understanding the difference between one and the other can save valuable time and effort while allowing the user to focus on rectification.
