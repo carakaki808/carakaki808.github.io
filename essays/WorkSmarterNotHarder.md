@@ -46,23 +46,17 @@ Example B,
 
 ---
 
-<img class="ui medium left floated image" src="../images/githubBadQuestion1.png">  
+<img class="ui medium left image" src="../images/githubBadQuestion1.png">  
 
 ---  
-
-
 
 *Brave:*  
 
-
-
 ---  
 
-<img class="ui medium left floated image" src="../images/githubBadQuestion2.png">   
+<img class="ui medium left image" src="../images/githubBadQuestion2.png">   
 
 ---  
-
-
 
 *In Safari it works logically, you want a string as a key then you should use a {} dictionary, but i guess it worked before the []arrays...?*
 
