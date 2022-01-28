@@ -42,13 +42,13 @@ This question popped up when I searched with tags including javascript, arrays, 
 
 Example B,
 
-*I don't know if I didn't notice this before... or has it always been like this?*
+*I don't know if I didn't notice this before... or has it always been like this?*  
 
 <img class="ui medium left floated image" src="../images/githubBadQuestion1.png">  
 
-*Brave:*
+*Brave:*  
 
-<img class="ui medium left floated image" src="../images/githubBadQuestion2.png">  
+<img class="ui medium left floated image" src="../images/githubBadQuestion2.png">   
 
 *In Safari it works logically, you want a string as a key then you should use a {} dictionary, but i guess it worked before the []arrays...?*
 
