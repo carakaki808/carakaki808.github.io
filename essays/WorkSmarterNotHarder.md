@@ -23,18 +23,19 @@ Example A,
 
 ---
 
-var objs = [
-  { first_nom: 'Lazslo', last_nom: 'Jamf'     },
-  { first_nom: 'Pig',    last_nom: 'Bodine'   },
-  { first_nom: 'Pirate', last_nom: 'Prentice' }
+var objs = [\n
+  \t{ first_nom: 'Lazslo', last_nom: 'Jamf'     },\n
+  \t{ first_nom: 'Pig',    last_nom: 'Bodine'   },\n
+  \t{ first_nom: 'Pirate', last_nom: 'Prentice' }\n
 ];
 
 ---
 
 *How can I sort them by the value of last_nom in JavaScript?*
+
 *I know about sort(a,b), but that only seems to work on strings and numbers. Do I need to add a toString() method to my objects?*
 
-This question popped up when I searched with tags including javascript, arrays, sorting, and comparison. The title is clear and concise, Sort array of objects by string property value. They immediately begin their post with a sample of their code to help support their follow-up question. The last part of their question asserted a symptom of their problem to help with analysis. I consider this to be a good question. Although the last sentence was a guess and could have been neglected, the rest of the inquiry was robust and allowed for further discussion on the issue.
+This question popped up when I searched with tags including javascript, arrays, sorting, and comparison. The title is clear and concise, **_Sort array of objects by string property value_**. They immediately begin their post with a sample of their code to help support their follow-up question. The last part of their question asserted a symptom of their problem to help with analysis. I consider this to be a good question. Although the last sentence was a guess and could have been neglected, the rest of the inquiry was robust and allowed for further discussion on the issue.
 
 Example B,
 
