@@ -23,10 +23,10 @@ Example A,
 
 ---
 
-var objs = [\n
-  \t{ first_nom: 'Lazslo', last_nom: 'Jamf'     },\n
-  \t{ first_nom: 'Pig',    last_nom: 'Bodine'   },\n
-  \t{ first_nom: 'Pirate', last_nom: 'Prentice' }\n
+var objs = [  
+  { first_nom: 'Lazslo', last_nom: 'Jamf'     },  
+  { first_nom: 'Pig',    last_nom: 'Bodine'   },  
+  { first_nom: 'Pirate', last_nom: 'Prentice' }  
 ];
 
 ---
