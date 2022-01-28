@@ -65,3 +65,7 @@ This question wasn’t even answered. My guess? It’s too vague. The title is *
 ## What's the Take Away?
 
 Both examples showcase what I believe separates a smart question from a not-so-smart question. Understanding the difference between one and the other can save valuable time and effort while allowing the user to focus on rectification.
+
+Source: [Sort array of objects by string property value](https://stackoverflow.com/questions/1129216/sort-array-of-objects-by-string-property-value)  
+
+Source: [Since when Safari not allow to use a string as an array key?](https://stackoverflow.com/questions/70743406/since-when-safari-not-allow-to-use-a-string-as-an-array-key)  
