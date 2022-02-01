@@ -17,7 +17,7 @@ summary: A linked list that records data on different PCs designed in ICS 211.
 
 This is a console application that I created back in ICS 211. Though simple and unrefined, this particular project was special to me because it was the culmination of everything I learned about Java at the time.
 
-I don’t have much to say about how it runs, which is a great! Why? Because the application, while simple, is very user-friendly. The greatest challenge about this project was making sure all the files ran in tandem. The program includes many error checks and focuses on a friendly user interface.
+I don’t have much to say about how it runs, which is great! Why? Because the application, while simple, is very user-friendly. The greatest challenge about this project was making sure all the files ran in tandem. The program includes many error checks and focuses on a friendly user interface.
 
 When run, the console will display a menu asking the user to input options. It’s up to the user to follow the instructions on the screen. There are many options the choose from such as recording barcodes, searching lists for nodes, and printing certain nodes based on their properties. The purpose of this project was to expand our understanding of data structures, particularly ADTs (Abstract data types). It was meant to replicate a system whose with a variable size of data. Each element would be added or removed at different times during the lifetime of the program. Data would also need to be manipulated and displayed when the user chooses.
 
