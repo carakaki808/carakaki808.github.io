@@ -1,0 +1,13 @@
+---
+layout: essay
+type: essay
+title: Just Standard Procedure!
+date: 2022-02-10
+labels:
+  - Coding Standards
+  - ESLint
+---
+
+## What is the Importance of Standards?
+
+WouLd it bE StrAnGe to WritE LikE thiS? One look at this sentence and some people may think “why does this sentence look so strange?” That’s because we are used to seeing English syntax written to a standard that we were taught in grade school. If everyone read and wrote without standards we’d be living in a world where sentences, just like the first one, are written all over newspapers, important documents, and perhaps even dictionaries. I believe having a standard when writing code should be no different than having one when you are writing a poem. Let's discuss the benefits.
