@@ -17,7 +17,7 @@ labels:
 Standards aren’t just a way for people to conform to what is “normal”. I believe standards, especially language standards, exist for people to harmonize better. Dress code standards at the workplace encourage professionalism, dietary standards inform people on how to live a healthier lifestyle, and coding standards enable colleagues to collaborate on projects. Like a universal utility, setting standards is a powerful tool to enable cooperation.
 
 ## Sampling a New IDE
-
+<img class="ui small right floated image" src="../images/intellijimg.jpg"> 
 At first glance, I was intimidated by the layout and functionality of IntelliJ. It’s always anxiety-inducing to climb on a bike you’ve never ridden. However, once I started pedaling, I was zooming off with ease! Functionality begins to make sense, shortcuts start to become second nature, and the fear of trying something new turns into an illusion. My first attempt at installing ESLint and disabling all other inspectors took a good while, but just as a good pot of stew, once the ingredients are all in the pot, all there’s left to do is stir. Installing the gitignore, eslintrc, and package.json, has become a routine procedure. I’m well oiled and ready for my next assignment!
 
 ## One Standard to Rule Them All!
