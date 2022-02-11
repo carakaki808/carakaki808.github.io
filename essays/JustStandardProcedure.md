@@ -21,7 +21,7 @@ Standards aren’t just a way for people to conform to what is “normal”. I b
 At first glance, I was intimidated by the layout and functionality of IntelliJ. It’s always anxiety-inducing to climb on a bike you’ve never ridden. However, once I started pedaling, I was zooming off with ease! Functionality begins to make sense, shortcuts start to become second nature, and the fear of trying something new turns into an illusion. My first attempt at installing ESLint and disabling all other inspectors took a good while, but just as a good pot of stew, once the ingredients are all in the pot, all there’s left to do is stir. Installing the gitignore, eslintrc, and package.json, has become a routine procedure. I’m well oiled and ready for my next assignment!
 
 ## One Standard to Rule Them All!
-<img class="ui medium left circular floated image" src="../images/ErrorFixing.png"> 
+<img class="ui small right circular floated image" src="../images/ErrorFixing.png"> 
 Learning a new standard is a pain for sure… However, when this new standard is enforced by an IDE, my weekly assignments become easier! Modern word processors usually implement a type of writing assistance that reviews your spelling, grammar, and punctuation (I personally use Grammarly). The “assistant” then corrects these errors, sometimes without you even noticing. The ESLint inspector works in similar ways! Code that doesn’t conform to these standards is flagged for review and corrected accordingly by the user. This can be done with a click of a button, code is fixed according to ESLint’s standard. It can even fix multiple errors at once! Wow! Save yourself the grief of error handling and move on to the next step.
 
 ## My Humble Opinion
