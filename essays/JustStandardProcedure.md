@@ -25,5 +25,4 @@ At first glance, I was intimidated by the layout and functionality of IntelliJ. 
 Learning a new standard is a pain for sure… However, when this new standard is enforced by an IDE, my weekly assignments become easier! Modern word processors usually implement a type of writing assistance that reviews your spelling, grammar, and punctuation (I personally use Grammarly). The “assistant” then corrects these errors, sometimes without you even noticing. The ESLint inspector works in similar ways! Code that doesn’t conform to these standards is flagged for review and corrected accordingly by the user. This can be done with a click of a button, code is fixed according to ESLint’s standard. It can even fix multiple errors at once! Wow! Save yourself the grief of error handling and move on to the next step.
 
 ## My Humble Opinion
-<img class="ui small right image" src="../images/MyThoughts.jpg">
 My final thoughts on this? Use it, understand it, live by it. A coding standard is the best way to collaborate with others on programming projects. In the ever-evolving world of technology, improving the quality of one’s coding standards will always be constant.
