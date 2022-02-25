@@ -21,7 +21,7 @@ The first and most important motivation to continue using Semantic UI was how pr
 # Skip the Leg Work!
 
 <div>
-  <img class="ui image" src="NetflixClone.png">
+  <img class="ui image" src="https://github.com/carakaki808/carakaki808.github.io/blob/master/images/NetflixClone.png?raw=true">
 
-  <img class="ui image" src="NetflixOrig.png">
+  <img class="ui image" src="https://github.com/carakaki808/carakaki808.github.io/blob/master/images/NetflixOrig.png?raw=true">
 </div>
