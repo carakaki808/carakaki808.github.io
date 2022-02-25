@@ -14,7 +14,7 @@ labels:
 
 Learning semantic UI is very tedious. 
 <img class= "ui medium left floated image" src="https://assets.entrepreneur.com/content/3x2/2000/20190910104502-Greencurrency.jpeg?auto=webp&quality=95&crop=16:9&width=675">
-It will require a lot of the learner’s attention while also maintaining a decent understanding of CSS and HTML. I was not convinced of the power a framework would have while constructing web projects. As I began the slow process of implementing Semantic UI into my HTML and CSS, I began to appreciate the nuance this framework was having on my pages. A week later and I’m sold! Semantic UI dresses up your projects to look as impressive as those popular websites we’re so familiar with… ahem, Facebook. If you give Semantic UI the attention it deserves, you will be rewarded!
+It will require a lot of the learner’s attention while also maintaining a decent understanding of CSS and HTML. I was not convinced of the power a framework would have while constructing web projects. As I began the slow process of implementing Semantic UI into my HTML and CSS, I began to appreciate the nuance this framework was having on my pages. A week later and I’m sold! Semantic UI dresses up your projects to look as impressive as some of the most popular websites like Facebook. If you give Semantic UI the attention it deserves, it will reward you!
 
 # A Solid Look For Professionals!
 
