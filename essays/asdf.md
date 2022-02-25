@@ -22,10 +22,13 @@ The first and most important motivation to continue using Semantic UI was how pr
 
 Here I have two images, one is a recreation, the other is the original. 
 
+<div>
   <img class="ui right large floated image" src="https://github.com/carakaki808/carakaki808.github.io/blob/master/images/NetflixClone.png?raw=true">
+  </div>
   
-  
+  <div>
   <img class="ui right large floated image" src="https://github.com/carakaki808/carakaki808.github.io/blob/master/images/NetflixOrig.png?raw=true">
+  </div>
   
 If I were to pick a person at random who has never seen this website before, they may find it difficult to choose the original. There are definitely subtle differences such as the rounding of the edges, the contrast between background images, and spacing between elements, but both images are somewhat Identical.
 
