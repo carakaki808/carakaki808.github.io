@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: asdf
+title: Art Meets Functionality
 date: 2022-02-24
 labels:
   - Framework
@@ -11,6 +11,7 @@ labels:
 ---
 
 # It's Worth Your Time!
+<img class= "ui floated medium circled right image" src="https://assets.entrepreneur.com/content/3x2/2000/20190910104502-Greencurrency.jpeg?auto=webp&quality=95&crop=16:9&width=675">
 
 Learning semantic UI is very tedious. It will require a lot of the learner’s attention while also maintaining a decent understanding of CSS and HTML. I was not convinced of the power a framework would have while constructing web projects. As I began the slow process of implementing Semantic UI into my HTML and CSS, I began to appreciate the nuance this framework was having on my pages. A week later and I’m sold! Semantic UI dresses up your projects to look as impressive as those popular websites we’re so familiar with… ahem, Facebook.
 
