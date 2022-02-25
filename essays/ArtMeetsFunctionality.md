@@ -19,7 +19,7 @@ It will require a lot of the learner’s attention while also maintaining a dece
 # A Solid Look For Professionals!
 
 <img class= "ui small right floated image" src="https://www.pinclipart.com/picdir/big/284-2842237_masterpiece-computer-icons-cartoon-human-behavior-clipart.png">
-The first and most important motivation to continue using Semantic UI was how professional it will make you feel. Finally! My projects are looking as tasteful as those other fancy dot com websites. It is a delightful indication that I'm growing as a software engineer and a sign that my skills are being honed to a higher degree. With new and upcoming web developers graduating every year, it’s important to meet and maintain the industry standards. Using this framework will make clients happy and users proud to showcase their masterpieces. 
+The first and most important motivation to continue using Semantic UI was how professional it will make you feel. Finally! My projects are looking as tasteful as those other fancy dot com websites. It is a delightful indication that I'm growing as a software engineer and a sign that my skills are being honed to a higher degree. With new and upcoming web developers graduating every year, it’s important to meet and maintain the industry standards. Using Semantic UI will make clients happy and users proud to showcase their masterpieces. 
 
 # Skip the Leg Work!
 
