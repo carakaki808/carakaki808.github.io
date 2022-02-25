@@ -20,8 +20,10 @@ The first and most important motivation to continue using Semantic UI was how pr
 
 # Skip the Leg Work!
 
+Below I have two images, one is a recreation, the other is the original. If I were to pick a person at random who has never seen this website before, they may find it difficult to choose the original. There's definitely subtle differences such as the rounding of the edges, contrast between background images, and spacing between elements, but both images are somewhat Identical. 
+
 <div>
-  <img class="ui small image" src="https://github.com/carakaki808/carakaki808.github.io/blob/master/images/NetflixClone.png?raw=true">
+  <img class="ui medium image" src="https://github.com/carakaki808/carakaki808.github.io/blob/master/images/NetflixClone.png?raw=true">
   <hr>
-  <img class="ui small image" src="https://github.com/carakaki808/carakaki808.github.io/blob/master/images/NetflixOrig.png?raw=true">
+  <img class="ui medium image" src="https://github.com/carakaki808/carakaki808.github.io/blob/master/images/NetflixOrig.png?raw=true">
 </div>
