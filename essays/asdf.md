@@ -24,9 +24,9 @@ Here I have two images, one is a recreation, the other is the original.
 
 <div>
   <img class="ui right large floated image" src="https://github.com/carakaki808/carakaki808.github.io/blob/master/images/NetflixClone.png?raw=true">
-  </div>
+  
   <hr>
-  <div>
+  
   <img class="ui right large floated image" src="https://github.com/carakaki808/carakaki808.github.io/blob/master/images/NetflixOrig.png?raw=true">
   </div>
   
