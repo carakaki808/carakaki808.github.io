@@ -25,11 +25,11 @@ Here I have two images, one is a recreation, the other is the original.
 <div>
   <img class="ui right large floated image" src="https://github.com/carakaki808/carakaki808.github.io/blob/master/images/NetflixClone.png?raw=true">
   </div>
-  
+  <hr>
   <div>
   <img class="ui right large floated image" src="https://github.com/carakaki808/carakaki808.github.io/blob/master/images/NetflixOrig.png?raw=true">
   </div>
   
 If I were to pick a person at random who has never seen this website before, they may find it difficult to choose the original. There are definitely subtle differences such as the rounding of the edges, the contrast between background images, and spacing between elements, but both images are somewhat Identical.
 
-The top image is the clone while and the bottom is the original. Through trial and error, the recreation took an hour+ to finish, mostly due to element positioning on the grid. If I were to attempt this assignment again I’m very confident it would take less than half an hour to complete. Not only is this because of my experience but because Semantic UI takes care of all the tedious work of adjusting margins, padding, position, alignment... you name it! It's like building a house without needing to lay the foundation. 
+The top image is the clone while and the bottom is the original. Through trial and error, the recreation took an hour+ to finish, mostly due to element positioning on the grid. If I were to attempt this assignment again I’m very confident it would take less than half an hour to complete. Semantic UI takes care of all the tedious work of adjusting margins, padding, position, alignment... you name it! It's like building a house without needing to lay a foundation. What does this mean for the user? Finish projects faster! After all, as software engineers, our best friend is automation!
