@@ -17,15 +17,14 @@ The solution: A web app designed to manage your daily tasks in a clean, simple, 
 “Special sauce” would include special tasks only related to the user. For example, grabbing a cup of coffee would only be accessible from the user’s profile.
 
 # Mockup page ideas
-Landing Page 
-User Home Page (displays recommend time to leave) 
-Admin Home Page 
-User Profile Page (displays inputted schedule for specific user) 
-Input Schedule Page (adds schedule to profile, asks for morning tasks and how long they take)
+* Landing Page 
+* User Home Page (displays recommend time to leave) 
+* Admin Home Page 
+* User Profile Page (displays inputted schedule for specific user) 
+* Input Schedule Page (adds schedule to profile, asks for morning tasks and how long they take)
 
 # Use case ideas
 * New user goes to landing page, logs in, and sets up profile
-* User goes to the landing page, logs in, and input details (i.e. class schedule, distance from campus, how long it takes to get ready, etc.)
 * Utilizes daily traffic information to determine likely schedule for the next day
 * Personalized time management per user
 * Asks the user for tasks and times
