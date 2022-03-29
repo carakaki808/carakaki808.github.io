@@ -7,6 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
+This is a collaboration between Gaila, Michelle, Kristyn
 
 #Overview (including “The problem” and “The solution”)
 
