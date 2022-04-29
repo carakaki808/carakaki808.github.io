@@ -20,7 +20,7 @@ One of the earliest known inventions is the wheel. There's evidence that wheels 
 <img class="ui small floated right image" src="../images/Toyota_Motor_Plant_in_1950s.jpg">
 Here’s an easy question. Between a round wheel and a square wheel, which would be more practical for use on a bicycle? Hopefully, the round wheel was the obvious choice. Why do we know this? Probably because we’ve all driven, rode, or have pushed objects with wheels. We know for a fact that wheels work and so do the engineers who design cars. Thus a common **design pattern** is to design cars with round wheels.
 
-### The Programmer's "Wheel"
+### The Programmer's Wheel
 
 Software engineers use design patterns as tried and tested methods to solve problems that occur during the design process. Just like the wheel, these patterns are used again and again because we know they work! For object-oriented programming, patterns will typically involve interactions between objects. These patterns are seen at all levels of the design process and are often re-used to satisfy some higher-level objective.
 
