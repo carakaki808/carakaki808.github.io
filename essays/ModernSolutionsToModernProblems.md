@@ -11,12 +11,14 @@ labels:
 ---
 
 ## The Wheel
+
 <img class="ui small floated right image" src="../images/Roue_primitive.png">
 One of the earliest known inventions is the wheel. There's evidence that wheels existed as early as 4500 BCE, that’s a really long time ago! It’s a simple design involving a circular object intended to rotate around an axle bearing. Everyone has probably witnessed a wheel used in some form from cars, bikes, and even common household tools like hand trucks.
 
 ## The Right Solution
 
-Here’s an easy question. Between a round wheel and a square wheel, which would be more practical for use on a bicycle? Hopefully, the round wheel was the obvious choice. Why do we know this? Probably because we’ve all driven, rode, or have pushed objects with wheels. We know for a fact that wheels work and so do the engineers who design cars. Thus a common **design pattern** is to design cars with round wheels.<img class="ui small floated right image" src="../images/Toyota_Motor_Plant_in_1950s.jpg">
+<img class="ui small floated right image" src="../images/Toyota_Motor_Plant_in_1950s.jpg">
+Here’s an easy question. Between a round wheel and a square wheel, which would be more practical for use on a bicycle? Hopefully, the round wheel was the obvious choice. Why do we know this? Probably because we’ve all driven, rode, or have pushed objects with wheels. We know for a fact that wheels work and so do the engineers who design cars. Thus a common **design pattern** is to design cars with round wheels.
 
 ### The Programmer's "Wheel"
 
