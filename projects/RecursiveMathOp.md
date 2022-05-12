@@ -13,7 +13,7 @@ labels:
 summary: An application designed to utilize simple math functions in a recursive method all packaged within a simple GUI.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/MathOpGUI.png">
+<img class="ui medium right floated rounded image" src="../images/MathOpGUI.png" alt="Math op user interface">
 
 I solo designed this back in ICS 211. This project helped me understand recursion and apply it to a basic GUI.
 

@@ -13,7 +13,7 @@ labels:
 summary: A simple Rock Paper Scissors game created in ICS 211 utilizing a GUI.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/JanKenPo.png">
+<img class="ui medium right floated rounded image" src="../images/JanKenPo.png" alt="jan ken po">
 
 RockPaperScissors is a simple Java program that I solo developed in ICS 211. This project helped further my skills in Java and in particular GUI.
 

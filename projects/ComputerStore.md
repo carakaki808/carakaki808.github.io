@@ -13,7 +13,7 @@ labels:
 summary: A linked list that records data on different PCs designed in ICS 211.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/LinkedListproj.png">
+<img class="ui medium right floated rounded image" src="../images/LinkedListproj.png" alt="menu">
 
 This is a console application that I created back in ICS 211. Though simple and unrefined, this particular project was special to me because it was the culmination of everything I learned about Java at the time.
 
