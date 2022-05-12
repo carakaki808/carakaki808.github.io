@@ -52,7 +52,9 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "React",
+        "Semantic UI"
       ]
     },
     {
@@ -60,7 +62,7 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
