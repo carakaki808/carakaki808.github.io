@@ -8,7 +8,9 @@ labels:
   - Learning
 ---
 
-**A New Language**
+<img class="ui medium right image" src="../images/language.png">
+
+## A New Language
 
 Starting a new semester and the first assignment is to learn a new programming language in a week… crazy? No, not at all! JavaScript is an intuitive and robust upgrade to classical Java. Designed for flexibility with an easy learning curve, JavaScript proves to be a worthy successor. 
 
@@ -16,7 +18,9 @@ My background in programming isn’t very extensive. Having only begun my journe
 
 I’m still a novice, by all means, but this new and improved way of writing Java is exhilarating! I also have some experience writing C/C++. Though a little outdated in comparison to JavaScript, when first introduced to C/C++ my initial thought was, “Wow, this is even easier than Java!” Just because something is easy, doesn’t make it better. C/C++ lacked a certain familiarity that could only be learned through a more object-focused approach.
 
-**A Different Kind of Workout**
+<img class="ui medium right image" src="../images/workout.jpg">
+
+## A Different Kind of Workout
 
 I’m used to hitting the gym at 10:30 am on a Tuesday/Thursday morning. Now I’m hitting the keyboard! WOD (workout of the day) is a new exercise designed to strengthen fingers, and more importantly, the mind.
 
