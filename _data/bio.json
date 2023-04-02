@@ -90,14 +90,16 @@
   ],
   "work": [
     {
-      "company": "Food Land",
-      "position": "Cashier",
+      "company": "Sheraton Hotels",
+      "position": "BellHop",
       "website": "",
-      "startDate": "2010",
-      "endDate": "2012",
-      "summary": "Wrang up groceries and stocked items.",
+      "startDate": "2014-11-16",
+      "endDate": "Present",
+      "summary": "Front of the house. First to meet and interact with guests.",
       "highlights": [
-        "I had to have good knowledge of UPCs and and understanding of sales laws. I worked in a team setting."
+        "Deliver items to guests quickly and efficiently.",
+        "Work with other departments to meet guest requests. For example, changing rooms, receiving packages.",
+        "Greet guests upon arrival. Offer food suggestions, local attractions, activities.",
       ]
     },
     {
@@ -112,14 +114,14 @@
       ]
     },
     {
-      "company": "Sheraton Hotels",
-      "position": "BellHop",
+      "company": "Food Land",
+      "position": "Cashier",
       "website": "",
-      "startDate": "2014-11-16",
-      "endDate": "Present",
-      "summary": "Uniformed services.",
+      "startDate": "2010",
+      "endDate": "2012",
+      "summary": "Wrang up groceries and stocked items.",
       "highlights": [
-        "Deliver guest items, make intitial contact with guests, work in a team setting."
+        "I had to have good knowledge of UPCs and and understanding of sales laws. I worked in a team setting."
       ]
     },
   ],
