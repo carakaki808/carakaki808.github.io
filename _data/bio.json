@@ -64,7 +64,11 @@
         "Java",
         "Javascript",
         "React",
-        "Semantic UI"
+        "Semantic UI",
+        "Assembly",
+        "MongoDB",
+        "Bootstrap",
+        "MySQL",
       ]
     },
     {
@@ -83,10 +87,30 @@
       "studyType": "B.S.",
       "startDate": "2020-08-13",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.55",
       "courses": [
       ]
     }
+  ],
+  "projects": [
+    {
+      "name": "Job-Match-UH",
+      "site": "https://job-match-uh.github.io/"
+      "summary": "A way to recruit students to local companies affiliated with UH Manoa."
+      "highlights": [
+        "Helped with front end design of pages using Javascript and React.",
+        "Completed acceptance testing for end-users.",
+        "Assisted in designing components to populate the database.",
+    },
+    {
+      "name": "Room Directory",
+      "site": "https://room-directory.github.io/",
+      "summary": "A site for managing rooms in POST building at UH Manoa."
+      "highlights": [
+        "Helped create components for populating data.",
+        "Developed the sign-in/sign-out functions of the site.",
+        "Focused on the acceptance testing.",
+      ]
   ],
   "work": [
     {
