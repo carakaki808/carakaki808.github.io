@@ -106,7 +106,7 @@
     {
       "organization": "Room Directory",
       "website": "https://room-directory.github.io/",
-      "summary": "A site for managing rooms in POST building at UH Manoa."
+      "summary": "A site for managing rooms in POST building at UH Manoa.",
       "highlights": [
         "Helped create components for populating data.",
         "Developed the sign-in/sign-out functions of the site.",
