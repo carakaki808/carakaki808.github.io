@@ -94,8 +94,8 @@
   ],
   "projects": [
     {
-      "name": "Job-Match-UH",
-      "site": "https://job-match-uh.github.io/"
+      "organization": "Job-Match-UH",
+      "website": "https://job-match-uh.github.io/"
       "summary": "A way to recruit students to local companies affiliated with UH Manoa."
       "highlights": [
         "Helped with front end design of pages using Javascript and React.",
@@ -104,8 +104,8 @@
       ]
     },
     {
-      "name": "Room Directory",
-      "site": "https://room-directory.github.io/",
+      "organization": "Room Directory",
+      "website": "https://room-directory.github.io/",
       "summary": "A site for managing rooms in POST building at UH Manoa."
       "highlights": [
         "Helped create components for populating data.",
