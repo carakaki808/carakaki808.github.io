@@ -4,12 +4,12 @@
     "label": "Student",
     "picture": "https://carakaki808.github.io/images/20220119_173129.jpg",
     "email": "ca234@hawaii.edu",
-    "phone": "",
+    "phone": "(808)430-7477",
     "website": "https://carakaki808.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": "1635 Merkle St.",
+      "postalCode": "96819",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
